@@ -1,0 +1,15 @@
+.playerContainer {
+    display: flex; 
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 150px;
+} 
+
+.selectorImgL {
+    width: 40%; 
+}
+
+.playerImg{
+    width: 100%
+}

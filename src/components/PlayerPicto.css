@@ -1,0 +1,15 @@
+.pictoContainer {
+    width: 25%;
+    position: relative;
+} 
+
+.selectorImg {
+    width: 105%;
+    position: absolute;
+    top: -6px;
+    left: -2px
+}
+
+.picto{
+    width: 100%;
+}
